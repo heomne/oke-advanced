@@ -5,4 +5,21 @@ theme: just-the-docs
 url: https://achasan.github.io/oke-advanced
 
 aux_links:
-  Template Repository: https://github.com/Achasan/oke-advanced
+  "GitHub":
+    -  "//github.com/Achasan/oke-advanced"
+
+heading_anchors: true
+
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"
+
+callouts:
+  warning:
+    title: 주의
+    color: red
+  caution:
+    title: 유의사항
+    color: yellow
+    opacity: 0.3
+  inform:
+    color: mediumaquamarine
