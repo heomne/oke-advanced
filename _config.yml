@@ -21,5 +21,3 @@ callouts:
     title: 유의사항
     color: yellow
     opacity: 0.3
-  inform:
-    color: mediumaquamarine
