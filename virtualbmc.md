@@ -1,6 +1,7 @@
 ---
 title: VirtualBMC
-layout: home
+layout: default
+theme: just-the-docs
 ---
 
 # VirtualBMC 환경 구성 on vCenter(ESXi)
