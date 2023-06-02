@@ -1,3 +1,9 @@
+---
+title: Pacemaker (RHEL7)
+layout: default
+theme: just-the-docs
+---
+
 # Pacemaker Test (RHEL 7, VMware)
 
 <aside>
