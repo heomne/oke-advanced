@@ -2,8 +2,8 @@
 title: OKE Hands-on
 layout: default
 theme: just-the-docs
-has-children: true
-permalink: /oke-advanced/oke-index
+parent: OKE-Hands-on
+nav_order: 1
 ---
 
 # OKE Hands-on (심화)
