@@ -1,8 +1,8 @@
 ---
-title: OKE Hands-on
+title: CheckList
 layout: default
 theme: just-the-docs
-parent: OKE-Hands-on
+parent: OKE Hands-on
 nav_order: 1
 ---
 

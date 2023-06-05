@@ -1,9 +1,8 @@
 ---
 title: OKE Hands-on
-layout: default
+layout: home
 theme: just-the-docs
 has-children: true
-permalink: /oke-advanced
 ---
 
 # OKE Hands-on (심화)
