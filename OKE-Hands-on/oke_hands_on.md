@@ -2,8 +2,9 @@
 title: OKE Hands-on
 layout: home
 theme: just-the-docs
-has-children: true
+has_children: true
 permalink: /oke-hands-on/
+nav_order: 2
 ---
 
 # OKE Hands-on 심화
