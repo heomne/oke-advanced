@@ -4,7 +4,7 @@ layout: home
 theme: just-the-docs
 has_children: true
 permalink: /oke-hands-on/
-nav_order: 2
+nav_order: 1
 ---
 
 # OKE Hands-on 심화

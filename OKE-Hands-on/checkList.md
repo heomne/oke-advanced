@@ -1,5 +1,5 @@
 ---
-title: Lab 1: CheckList
+title: (Lab 1) CheckList
 layout: default
 theme: just-the-docs
 parent: OKE Hands-on
