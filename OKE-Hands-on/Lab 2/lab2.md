@@ -29,7 +29,7 @@ $ oci os ns get
     "data": "axjowrxaexxx"
 }
 ```
-`axjowrxaexxx`를 복사합니다.
+`axjowrxaexxx`를 복사합니다. (유저마다 data값은 다릅니다.)
 2. OCI에 가입할 때 선택한 지역에 따라 아래와 같이 OCIR 주소가 나뉘어집니다.
-- 서울: ap-seoul-1.ocir.io/axjowrxaexxx/oci-hol-xx/spring-boot-greeting:1.0
-- 춘천: ap-chuncheon-1.ocir.io/axjowrxaexxx/oci-hol-xx/spring-boot-greeting:1.0
+- 서울: `ap-seoul-1.ocir.io/axjowrxaexxx/oci-hol-xx/spring-boot-greeting:1.0`
+- 춘천: `ap-chuncheon-1.ocir.io/axjowrxaexxx/oci-hol-xx/spring-boot-greeting:1.0`
