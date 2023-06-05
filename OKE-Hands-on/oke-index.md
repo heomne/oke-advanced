@@ -28,7 +28,7 @@ permalink: /oke-advanced
 
 ## Lab 4: Deploy the MuShop App
 - 오라클에서 제공하는 샘플 애플리케이션 MuShop을 Helm Chart로 자동화 배포, 배포한 애플리케이션 확인
-- MuShop 소스코드에는 Prometheus/Grafana 모니터링 툴이 포함되어있음 (Lab 5에서 사용)
+- Mushop Chart에 Prometheus/Grafana 모니터링 툴이 포함됨(Lab 5에서 사용)
 
 ## Lab 5: Monitor the deployment
 - Lab 4에서 배포한 MuShop 애플리케이션을 OCI 콘솔, OSS Grafana로 모니터링
