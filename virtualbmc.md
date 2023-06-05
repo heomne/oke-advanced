@@ -1,5 +1,5 @@
 ---
-title: VirtualBMC
+title: VirtualBMC(Sample)
 layout: default
 theme: just-the-docs
 ---
