@@ -3,11 +3,10 @@ title: OKE Hands-on
 layout: home
 theme: just-the-docs
 has-children: true
-permalink: /
-nav_order: 1
+permalink: /oke-hands-on/
 ---
 
-# OKE Hands-on (심화)
+# OKE Hands-on 심화
 
 [LiveLabs 링크](https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=3206&p210_wec=&session=4354810289205)
 
