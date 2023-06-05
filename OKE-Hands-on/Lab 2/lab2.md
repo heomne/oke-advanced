@@ -17,5 +17,7 @@ nav_order: 3
 ## 유의사항
 - 기본 프로젝트 소스 파일은 Option #2(커맨드)를 통해 생성하는 방법이 빠릅니다.
 ```
-curl https://start.spring.io/starter.tgz -d type=maven-project -d bootVersion=2.7.7.RELEASE -d baseDir=rest-service -d name=rest-service -d artifactId=rest-service -d javaVersion=11 -d dependencies=web,actuator | tar -xzvf -
+curl https://start.spring.io/starter.tgz -d type=maven-project -d bootVersion=2.7.7.RELEASE \
+-d baseDir=rest-service -d name=rest-service -d artifactId=rest-service \
+-d javaVersion=11 -d dependencies=web,actuator | tar -xzvf -
 ```
