@@ -3,6 +3,7 @@ title: CheckList
 layout: default
 theme: just-the-docs
 parent: OKE Hands-on
+permalink: /checkList
 ---
 
 # OKE Hands-on (심화)
