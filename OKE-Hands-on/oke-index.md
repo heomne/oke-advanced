@@ -1,6 +1,6 @@
 ---
 title: OKE Hands-on
-layout: home
+layout: default
 theme: just-the-docs
 permalink: /
 has-children: true
