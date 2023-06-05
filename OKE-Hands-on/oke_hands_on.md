@@ -3,7 +3,7 @@ title: OKE Hands-on
 layout: home
 theme: just-the-docs
 has_children: true
-permalink: /oke-hands-on/
+permalink: /
 nav_order: 1
 ---
 
