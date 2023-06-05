@@ -2,6 +2,7 @@
 title: OKE Hands-on
 layout: home
 theme: just-the-docs
+permalink: /
 has-children: true
 ---
 
