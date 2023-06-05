@@ -1,10 +1,10 @@
 ---
 title: OKE Hands-on
-layout: default
+layout: home
 theme: just-the-docs
 has-children: true
-permalink: /OKE-Hands-on/
-nav_order: 2
+permalink: /
+nav_order: 1
 ---
 
 # OKE Hands-on (심화)

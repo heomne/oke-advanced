@@ -2,7 +2,7 @@
 title: VirtualBMC(Sample)
 layout: default
 theme: just-the-docs
-nav_order: 3
+nav_order: 2
 ---
 
 # VirtualBMC 환경 구성 on vCenter(ESXi)
