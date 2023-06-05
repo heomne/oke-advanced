@@ -4,6 +4,7 @@ layout: default
 theme: just-the-docs
 has-children: true
 permalink: /OKE-Hands-on/
+nav_order: 2
 ---
 
 # OKE Hands-on (심화)
