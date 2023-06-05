@@ -1,5 +1,5 @@
 ---
-title: Lab 1: Setup Cloud Environment
+title: "Lab 1: Setup Cloud Environment"
 layout: default
 theme: just-the-docs
 parent: OKE Hands-on
